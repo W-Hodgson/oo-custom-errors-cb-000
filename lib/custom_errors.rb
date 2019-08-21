@@ -14,7 +14,7 @@ end
 
 class PartnerError < StandardError
 
-
+  
 end
 
 beyonce = Person.new("Beyonce")
