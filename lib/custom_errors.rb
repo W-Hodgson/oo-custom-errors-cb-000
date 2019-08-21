@@ -12,7 +12,6 @@ class Person
         raise PartnerError
       rescue
       end
-      raise PartnerError
     else
       person.partner = self
     end
