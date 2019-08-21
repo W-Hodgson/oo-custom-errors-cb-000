@@ -10,6 +10,7 @@ class Person
     if person.class != Person
       begin
 
+      rescue
       end
       raise PartnerError
     else
